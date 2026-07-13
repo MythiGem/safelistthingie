@@ -1,6 +1,5 @@
 # Safelist
 MythiGem
-PixelmonLMB
 DJ_girl
 MCDragneel
 riskyroar
