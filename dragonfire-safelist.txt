@@ -2,10 +2,15 @@
 MythiGem
 PixelmonLMB
 DJ_girl
-MCDragneel
-riskyroar
-WildKatStudios
 Sshadowshark_YT
 SilverSkrillXD
 SirenSpadesVA
 Unstoppable_MaxR
+
+# DragonFire SMP
+MCDragneel
+riskyroar
+WildKatStudios
+
+# Siren's Roleplay
+Cosmic__Blaze
