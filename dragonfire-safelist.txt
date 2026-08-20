@@ -1,6 +1,5 @@
 # Safelist
 MythiGem
-PixelmonLMB
 DJ_girl
 Sshadowshark_YT
 SilverSkrillXD
@@ -9,7 +8,6 @@ Unstoppable_MaxR
 Ersh_Gem
 
 # DragonFire SMP
-MCDragneel
 riskyroar
 WildKatStudios
 Mr_Maplee
