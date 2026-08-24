@@ -1,6 +1,5 @@
 # Safelist
 DJ_girl
-Sshadowshark_YT
 SilverSkrillXD
 SirenSpadesVA
 Unstoppable_MaxR
@@ -9,7 +8,6 @@ Ersh_Gem
 # DragonFire SMP
 riskyroar
 WildKatStudios
-Mr_Maplee
 
 # Siren's Roleplay
 Cosmic__Blaze
