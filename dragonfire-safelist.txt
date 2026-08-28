@@ -1,8 +1,6 @@
 # Safelist
 MythiGem
 DJ_girl
-SilverSkrillXD
-SirenSpadesVA
 Unstoppable_MaxR
 Ersh_Gem
 PixelmonLMB
@@ -19,3 +17,5 @@ Wkeyisgood99
 # Siren's Roleplay
 Cosmic__Blaze
 CycloneYT14
+SirenSpadesVA
+SilverSkrillXD
